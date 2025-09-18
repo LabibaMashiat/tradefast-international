@@ -24,8 +24,8 @@ const Footer = () => {
             <div className="flex items-center gap-3 text-lg">
               <FaMapMarkerAlt className="text-secondary" />
               <p>
-                House #28, Road #7/C, Sector #9,<br />
-                Uttara, Dhaka-1230, Bangladesh
+                76, DIT Road.  A.M.Plaza (1st Floor) , S#204, Malibagh,Dhaka-1217,Bangladesh.<br />
+                
               </p>
             </div>
           </div>

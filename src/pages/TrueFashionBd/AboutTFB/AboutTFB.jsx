@@ -8,12 +8,14 @@ import WhatSetsUsApart from './WhatSetsUsApart/WhatSetsUsApart';
 import VisionMission from './VissionMission/VisiionMission';
 import WhatWeOffer from './WhatWeOffer/WhatWeOffer';
 import Banner from './Banner/Banner';
+import HowWeWork from './HowWeWork/HowWeWork';
 
 const AboutTFB = () => {
     return (
         <div>
             <Banner></Banner>
             <WhoWeAre></WhoWeAre>
+            <HowWeWork></HowWeWork>
             <CoreServices></CoreServices>
             <WhatWeOffer></WhatWeOffer>
             <WovenFabrics></WovenFabrics>

@@ -55,7 +55,16 @@ const ContactInfo = () => {
         <div className="card bg-base-100 shadow-md">
           <div className="card-body">
             <h2 className="card-title text-secondary flex items-center gap-2">
-              <FaMapMarkerAlt /> Head Office (Bangladesh)
+              <FaMapMarkerAlt /> Registration Office (Bangladesh)
+            </h2>
+            <p>76, DIT Road.  A.M.Plaza (1st Floor) , S#204, Malibagh,Dhaka-1217,Bangladesh.</p>
+          </div>
+        </div>
+         {/* Head Office */}
+        <div className="card bg-base-100 shadow-md">
+          <div className="card-body">
+            <h2 className="card-title text-secondary flex items-center gap-2">
+              <FaMapMarkerAlt /> Marketing Office (Bangladesh)
             </h2>
             <p>House #28 (4th Floor), Road #7/C, Sector #9,</p>
             <p>Uttara, Dhaka-1230, Bangladesh</p>
